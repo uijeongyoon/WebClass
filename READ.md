@@ -8,7 +8,7 @@ Artificial Intelligence
 
 Python
 
-MATLAB
+Matlab
 
 ## Big Data
 
